@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo explorar y analizar datos sobre delitos cometi
 
 🧑‍💻 Este trabajo forma parte de mi portafolio como egresada del Máster en Ciencia de Datos & AI. Aunque mi formación base es en Criminología, actualmente me estoy enfocando en aplicar herramientas y técnicas propias de la ciencia de datos para el análisis cuantitativo de fenómenos delictivos.
 
-🔬 El objetivo de este trabajo es mantener actualizadas las competencias adquiridas durante el máster, centrándome en la parte técnica y analítica del procesamiento y modelado de datos. Debido a la limitación de fuentes, en esta fase el proyecto no aborda interpretaciones desde la dinámica social o criminológica en profundidad.
+🔬 El objetivo de este proyecto es mantener actualizadas las competencias adquiridas durante el máster, centrándome en la parte técnica y analítica del procesamiento y modelado de datos. Debido a la limitación de fuentes, en esta fase el proyecto no aborda interpretaciones desde la dinámica social o criminológica en profundidad.
 
 
 
