@@ -1,10 +1,12 @@
 📊 Análisis de Delitos en México
 
-Introducción
+
 
 Este proyecto tiene como objetivo explorar y analizar datos sobre delitos cometidos en México, utilizando una base de datos obtenida de Kaggle. El análisis busca identificar patrones, tendencias y factores asociados con la incidencia delictiva, aplicando técnicas de análisis exploratorio, visualización de datos y modelos de aprendizaje automático.
 
 🧑‍🎓 Dicho trabajo forma parte de mi portafolio como egresado del Máster en Ciencia de Datos. A partir de este pequeño proyecto lo que busco realmente es mantener al día las técnicas adquiridas en el máster de Científico de datos  & AI, con la finalidad de ir mejorando mis habilidades en análisis de datos como criminologa.
+
+
 
 🗂️ Descripción del Dataset
 Registros: 15,680
@@ -163,6 +165,7 @@ Buen uso de visualizaciones y agrupaciones
 Dataset limitado a dos meses (marzo y abril)
 
 Desbalance de clases afecta la clasificación de delitos poco frecuentes
+
 
 
 💡Recomendaciones
