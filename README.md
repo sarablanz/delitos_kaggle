@@ -149,22 +149,25 @@ Bajo rendimiento en clases minoritarias como Delitos sexuales (por desbalance)
 
 
 8. Conclusiones
+
+
 Ventajas
 Proceso bien estructurado
 
-
 Alta precisión del modelo
-
 
 Buen uso de visualizaciones y agrupaciones
 
 
 Limitaciones
-Dataset limitado a dos meses (marzo y abril)
 
+Dataset limitado a dos meses (marzo y abril)
 
 Desbalance de clases afecta la clasificación de delitos poco frecuentes
 
 
 Recomendaciones
+
 Incluir más meses del año
+
+Generar datos sintéticos 
