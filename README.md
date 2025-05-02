@@ -4,7 +4,9 @@
 
 Este proyecto tiene como objetivo explorar y analizar datos sobre delitos cometidos en México, utilizando una base de datos obtenida de Kaggle. El análisis busca identificar patrones, tendencias y factores asociados con la incidencia delictiva, aplicando técnicas de análisis exploratorio, visualización de datos y modelos de aprendizaje automático.
 
-🧑‍🎓 Dicho trabajo forma parte de mi portafolio como egresado del Máster en Ciencia de Datos. A partir de este pequeño proyecto lo que busco realmente es mantener al día las técnicas adquiridas en el máster de Científico de datos  & AI, con la finalidad de ir mejorando mis habilidades en análisis de datos como criminologa.
+🧑‍💻 Este trabajo forma parte de mi portafolio como egresada del Máster en Ciencia de Datos & AI. Aunque mi formación base es en Criminología, actualmente me estoy enfocando en aplicar herramientas y técnicas propias de la ciencia de datos para el análisis cuantitativo de fenómenos delictivos.
+
+🔬 El objetivo de este trabajo es mantener actualizadas las competencias adquiridas durante el máster, centrándome en la parte técnica y analítica del procesamiento y modelado de datos. Debido a la limitación de fuentes, en esta fase el proyecto no aborda interpretaciones desde la dinámica social o criminológica en profundidad.
 
 
 
